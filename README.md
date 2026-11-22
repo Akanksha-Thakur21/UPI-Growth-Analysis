@@ -137,6 +137,7 @@ This script performs data cleaning, analysis, calculations, and visualization.
 ```bash
 python Automation/automated_validation.py
 ```
+This script performs automated data validation, yearly analysis, growth calculations, and insight generation. It also generates validation and insights reports.
 
 ### 5. Explore the Power BI Dashboard
 
