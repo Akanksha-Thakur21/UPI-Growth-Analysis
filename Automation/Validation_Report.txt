@@ -1,0 +1,12 @@
+UPI DATA VALIDATION REPORT
+========================================
+
+Missing Values: PASS
+Duplicate Rows: PASS
+Duplicate Months: PASS
+Invalid Dates: PASS
+Negative Values: PASS
+Financial Year: PASS
+Month Sequence: PASS
+
+Overall Status: PASS
