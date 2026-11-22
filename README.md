@@ -115,7 +115,7 @@ pip install pandas matplotlib openpyxl
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Akanksha-Thakur21/UPI-Growth-Analysis
 ```
 
 ### 2. Navigate to the Project Folder
@@ -135,7 +135,7 @@ This script performs data cleaning, analysis, calculations, and visualization.
 ### 4. Run Automated Data Validation and Insights
 
 ```bash
-python 
+python Automation/automated_validation.py
 ```
 
 ### 5. Explore the Power BI Dashboard
