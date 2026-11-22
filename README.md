@@ -136,45 +136,7 @@ This script performs data cleaning, analysis, calculations, and visualization.
 
 ```bash
 python 
-## How to Run the Project
-
-### Prerequisites
-
-Make sure Python is installed on your system.
-
-Install the required libraries:
-
-```bash
-pip install pandas matplotlib openpyxl
 ```
-
-### 1. Clone the Repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-### 2. Navigate to the Project Folder
-
-```bash
-cd UPI_Growth_Analysis
-```
-
-### 3. Run Python Data Analysis
-
-```bash
-python upi_analysis.py
-```
-
-This script performs data cleaning, analysis, calculations, and visualization.
-
-### 4. Run Automated Data Validation and Insights
-
-```bash
-python Automation/automated_validation.py
-```
-
-This script performs automated data validation, yearly analysis, growth calculations, and insight generation. It also generates validation and insights reports.
 
 ### 5. Explore the Power BI Dashboard
 
